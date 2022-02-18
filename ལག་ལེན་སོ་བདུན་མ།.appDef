@@ -283,12 +283,10 @@
       <filename>Root.txt</filename>
       <source>D:\Scripture App Builder\laglensodunma Audio\Root.txt</source>
 
-      <page num="1">
-        <audio>
-          <filename src="a1" len="10135092" size="243242972">D:\Scripture App Builder\laglensodunma Audio\laglensodunma.mp3</filename>
-          <timing-filename>lalensodunma.txt</timing-filename>
-        </audio>
-      </page>
+      <audio chapter="1">
+        <filename src="a1" len="10135092" size="243242972">D:\Scripture App Builder\laglensodunma Audio\laglensodunma.mp3</filename>
+        <timing-filename>lalensodunma.txt</timing-filename>
+      </audio>
 
       <features type="book">
         <feature name="show-chapter-numbers" value="inherit"/>
@@ -304,7 +302,7 @@
     <feature name="epub-toc-section-headings" value="true"/>
   </features>
 
-  <contents-filename>VAul1Y7mbL</contents-filename>
+  <contents-filename>FlT97uspZL</contents-filename>
 
   <layouts default="single">
     <layout mode="single" enabled="true">
